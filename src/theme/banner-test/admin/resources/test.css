@@ -1,0 +1,4 @@
+body::before {
+    content: "TEST";
+    background-color: #0066cc;
+}

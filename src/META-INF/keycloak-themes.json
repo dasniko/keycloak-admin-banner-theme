@@ -1,0 +1,20 @@
+{
+    "themes": [
+        {
+            "name" : "banner-base",
+            "types": [ "admin" ]
+        },
+        {
+            "name" : "banner-dev",
+            "types": [ "admin" ]
+        },
+        {
+            "name" : "banner-test",
+            "types": [ "admin" ]
+        },
+        {
+            "name" : "banner-prod",
+            "types": [ "admin" ]
+        }
+    ]
+}
